@@ -28,4 +28,4 @@ qq:30024167/81001985
 <img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f859105.png" width="560" height="285">
 
 
-![](http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f859105.png)
+http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f859105.png
