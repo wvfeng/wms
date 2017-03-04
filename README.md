@@ -17,5 +17,10 @@ qq:30024167/81001985
 
 
 
-<img src="/Uploads/editor/2016-08-07/57a695e0db90c.png">
+<img src="http://www.thinkphp.cn/Uploads/editor/2016-08-07/57a695e0db90c.png">
 
+<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f29a96f.png">
+
+<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f507742.png">
+
+<img src="http://www.thinkphp.cn//Uploads/editor/2016-08-07/57a696f859105.png">
