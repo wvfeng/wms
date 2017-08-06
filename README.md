@@ -24,8 +24,7 @@
 
 ## 测试账号 
         bool bool
-        
-        admin admin
+        admin admin
 
 ## 介绍
 
