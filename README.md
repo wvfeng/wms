@@ -10,6 +10,13 @@ qq:30024167/81001985
 
 [ 此代码仅供学习，请勿用于商业用途 ]
 
+[ 侵权名单 ]
+http://wms.mtop.cc/index.php
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53fYn3iBF&id=537679588642&_u=6lpt78j5117&wwlight=cntaobao%E6%99%A8%E6%9B%A61_11-%7B537679588642%7D
+
+http://www.sucaihuo.com/source/81.html
+
+
 测试账号:bool bool
         admin admin
 
