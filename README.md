@@ -1,6 +1,7 @@
-﻿## 简介
 
-qq:30024167/81001985
+## 联系方式
+   QQ ：30024167 / 81001985
+   email：30024167@qq.com  /  sloan1993@163.com
 
 
 个人制作，禁止传播
@@ -19,11 +20,12 @@ qq:30024167/81001985
   http://www.sucaihuo.com/source/81.html
 
 
-测试账号:bool bool
+## 测试账号 
+        bool bool
         admin admin
 
 
-##介绍
+## 介绍
 
 http://www.thinkphp.cn/code/2220.html
 
