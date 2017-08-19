@@ -32,6 +32,19 @@
 ## 测试账号 
         bool bool
         admin admin
+        
+        
+## 分类
+
+  http://localhost/wms/index.php/Category/index.html
+
+  http://localhost/wms/index.php/Category/add.html
+  
+## 属性 
+  http://localhost/wms/index.php/Attribute/index.html
+
+  http://localhost/wms/index.php/Attribute/add  
+  
 
 ## 介绍
 
