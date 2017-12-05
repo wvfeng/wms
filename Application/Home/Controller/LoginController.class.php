@@ -23,7 +23,8 @@ class LoginController extends Controller {
             'useCurve'    =>    false   //是否使用混淆曲线
         );
         $Verify = new \Think\Verify($config);
-        $Verify->entry();  
+        ob_clean();
+        $Verify->entry();
     }
     
     

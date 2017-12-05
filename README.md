@@ -1,11 +1,9 @@
 
 ## 联系方式
 
-   QQ ：30024167 / 81001985
+   QQ ：1092859578
    
-   QQ群：484043598
-   
-   email：30024167@qq.com  /  sloan1993@163.com
+   email：wvfeng@163.com
 
 
 个人制作，禁止传播
@@ -14,21 +12,6 @@
 请你们尊重原作者
 
 [ 此代码仅供学习，请勿用于商业用途 ]
-
-## [ 侵权名单 ]
-   
-    [居然明码标价卖钱]
-    
-   https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1f30a53fYn3iBF&id=537679588642&_u=6lpt78j5117&wwlight=cntaobao%E6%99%A8%E6%9B%A61_11-%7B537679588642%7D
- 
-   
-   [居然明码标价卖钱]
-   
-  http://www.sucaihuo.com/source/81.html
-  
-  [账号 admin 123456 ]
-  
-  http://wms.mtop.cc/index.php
 
 
 ## 测试账号 

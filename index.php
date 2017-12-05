@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // +----------------------------------------------------------------------
 // | ThinkPHP [ WE CAN DO IT JUST THINK ]
 // +----------------------------------------------------------------------
@@ -18,7 +18,7 @@ if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
 define('APP_DEBUG',True);
 
 //绑定模块
-define('BIND_MODULE', 'Home');
+//define('BIND_MODULE', 'Home');
 
 //把session保存到memcached
 // ini_set("session.save_handler","memcache");
@@ -31,6 +31,6 @@ header("Content-type: text/html; charset=utf-8");
 define('APP_PATH','./Application/');
 
 // 引入ThinkPHP入口文件
-require './ThinkPHP/ThinkPHP.php';
+require 'D:/wms/ThinkPHP/ThinkPHP.php';
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
